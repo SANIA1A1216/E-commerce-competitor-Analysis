@@ -92,7 +92,8 @@ This project is a comprehensive *E-commerce Competitor Strategy Dashboard* desig
 ### Steps
 1. Clone the repository:
    bash
-   git clone https://github.com/your-username/ecommerce-strategy-dashboard.git
+   git clone https://github.com/username/repository-name.git
+
    cd ecommerce-strategy-dashboard
    
 2. Install required dependencies:
