@@ -138,6 +138,8 @@ This project is a comprehensive *E-commerce Competitor Strategy Dashboard* desig
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap;">
+    <img src="" alt="Screenshot 1" width="400" style="margin: 10px;">
+ 
   <img src="https://github.com/SANIA1A1216/E-commerce-competitor-Analysis/blob/main/Screenshot%202025-01-28%20153414.png" alt="Screenshot 1" width="400" style="margin: 10px;">
   <img src="https://github.com/SANIA1A1216/E-commerce-competitor-Analysis/blob/main/Screenshot%202025-01-28%20175337.png?raw=true" alt="Screenshot 2" width="400" style="margin: 10px;">
   <img src="https://github.com/SANIA1A1216/E-commerce-competitor-Analysis/blob/main/Screenshot%202025-01-28%20175951.png?raw=true" alt="Screenshot 3" width="400" style="margin: 10px;">
