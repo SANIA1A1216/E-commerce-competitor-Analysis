@@ -124,8 +124,8 @@ Here’s how we plan to make this even better:
 ## Visuals
 Take a look at some of the screenshots from the dashboard below:
 
-![Screenshot 1](https://github.com/SANIA1A1216/E-commerce-competitor-Analysis/blob/main/Screenshot-1.png)
-![Screenshot 2](https://github.com/SANIA1A1216/E-commerce-competitor-Analysis/blob/main/Screenshot%202025-01-28%20153414.png)
+![Screenshot 1](https://github.com/SANIA1A1216/E-commerce-competitor-Analysis/blob/main/Screenshot-1.png?raw=true)
+![Screenshot 2]()
 ![Screenshot 3](https://github.com/SANIA1A1216/E-commerce-competitor-Analysis/blob/main/Screenshot%202025-01-28%20175337.png?raw=true)
 ![Screenshot 4](https://github.com/SANIA1A1216/E-commerce-competitor-Analysis/blob/main/Screenshot%202025-01-28%20175951.png?raw=true)
 
