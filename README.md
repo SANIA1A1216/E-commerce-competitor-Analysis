@@ -139,10 +139,10 @@ This project is a comprehensive *E-commerce Competitor Strategy Dashboard* desig
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/SANIA1A1216/E-commerce-competitor-Analysis/blob/main/Screenshot%202025-01-28%20153414.png" alt="Screenshot 1" width="400" style="margin: 10px;">
-  <img src="" alt="Screenshot 2" width="400" style="margin: 10px;">
-  <img src="C:\users\sania\OneDrive\Pictures\Screenshots\Screenshot_4.png" alt="Screenshot 3" width="400" style="margin: 10px;">
-  <img src=""C:\Users\sania\OneDrive\Pictures\Screenshots\Screenshot 2025-01-28 175951.png"" alt="Screenshot 4" width="400" style="margin: 10px;">
-  <img src=""C:\Users\sania\OneDrive\Pictures\Screenshots\Screenshot 2025-01-28 180022.png"" alt="Screenshot 5" width="400" style="margin: 10px;">
+  <img src="https://github.com/SANIA1A1216/E-commerce-competitor-Analysis/blob/main/Screenshot%202025-01-28%20175337.png?raw=true" alt="Screenshot 2" width="400" style="margin: 10px;">
+  <img src="https://github.com/SANIA1A1216/E-commerce-competitor-Analysis/blob/main/Screenshot%202025-01-28%20175951.png?raw=true" alt="Screenshot 3" width="400" style="margin: 10px;">
+  <img src="https://github.com/SANIA1A1216/E-commerce-competitor-Analysis/blob/main/Screenshot_6.png?raw=true" alt="Screenshot 4" width="400" style="margin: 10px;">
+
 
 </div>
 
